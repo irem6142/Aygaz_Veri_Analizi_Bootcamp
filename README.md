@@ -1,0 +1,2 @@
+# Global AI Hub ve Aygaz A.Ş. işbirliğinde Ömer Cengiz hocamın eğitmenliğinde bizlere sunulan Veri Analizi Bootcamp eğitimine ait bitirme projem 
+# Projeden kaggle üzerinden https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data bu veri setini inceleyip analiz ettim.Veri setinde New York şehri için Airbnb üzerinden kiralanabilir konaklama birimlerine ilişkin verilerin paylaşıldığı bir veri kümesiydi
